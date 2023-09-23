@@ -2,10 +2,10 @@
 ## Lead Developer 
 `Sure, we have the following features:`
 
-Registration and Authentication
-User Dashboard
-Search Functionality
-Payment
+* Registration and Authentication
+* User Dashboard
+* Search Functionality
+* Payment
 
 
 ## System Architect
