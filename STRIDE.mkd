@@ -45,3 +45,6 @@ Database servers
 Firewalls
 Mail servers
 File servers
+
+`Although we are still working with the logging functionality of these servers. In addition, most of the workstations the employees use are Windows 10, and we are pushing to have an automated way of pushing security updates to these assets.`
+Windows 10
