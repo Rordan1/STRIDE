@@ -10,41 +10,41 @@
 
 ## System Architect
 `Certainly. Our online banking platform leverages several AWS services to support its functionality. We utilize: ` 
-Amazon EC2 (Elastic Compute Cloud)
-RDS (Relational Database Service)
-Amazon S3
+* Amazon EC2 (Elastic Compute Cloud)
+* RDS (Relational Database Service)
+* Amazon S3
 
 `We also plan to use Elastic Load Balancer to handle traffic distribution, but that’s still in the works`
-Elastic Load Balancer
+* Elastic Load Balancer
 
 
 ## Security Engineer
 `Our web application and its infrastructure can be targeted by threat actors with typical external attacks such as: `
 
-DDoS
-SQL injection attacks
-Brute-forcing of credentials
-Enumeration of exposed assets
+* DDoS
+* SQL injection attacks
+* Brute-forcing of credentials
+* Enumeration of exposed assets
 
 `In addition, our internal network can be infiltrated with phishing attacks, containing malicious payloads that may infect our employees' workstations, and obtain our internal sensitive data.`
-phishing attacks
+* phishing attacks
 
 
 ## Business Analyst
 `Our top priorities are to protect our customer's`
 
-Personal and financial data
-Secure our transactions processing systems
-Ensure the availability and integrity of our platform
+* Personal and financial data
+* Secure our transactions processing systems
+* Ensure the availability and integrity of our platform
 
 
 ## Network Engineer
 `Sure, we maintain servers such as:`
 
-Database servers
-Firewalls
-Mail servers
-File servers
+* Database servers
+* Firewalls
+* Mail servers
+* File servers
 
 `Although we are still working with the logging functionality of these servers. In addition, most of the workstations the employees use are Windows 10, and we are pushing to have an automated way of pushing security updates to these assets.`
-Windows 10
+* Windows 10
