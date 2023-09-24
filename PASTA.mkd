@@ -1,0 +1,20 @@
+
+## Business Analyst
+Our top priorities are to protect our customer's personal and financial data, secure our transactions processing systems, and ensure the availability and integrity of our online banking services.
+
+## System Architect
+Certainly. Our online banking platform leverages several AWS services to support its functionality. We utilize Amazon EC2 (Elastic Compute Cloud), RDS (Relational Database Service), and Amazon S3.
+
+Amazon EC2 (Elastic Compute Cloud)
+RDS (Relational Database Service)
+Amazon S3
+
+We also plan to use Elastic Load Balancer to handle traffic distribution, but that’s still in the works.
+
+We utilize Amazon S3 for storing static assets and files, such as customer profile pictures and document uploads, EC2 for hosting microservices via Virtual Machines, and RDS for storing customer data.
+
+## Lead Developer
+Sure thing! The main features of our platform include secure user registration and authentication, account management, fund transfers, bill payments, and account statements. We also offer a mobile app for convenient access to our services.
+
+## Security Engineer
+Absolutely, there are a number of threats we should consider. First, external attackers can try to break into our system via different methods such as brute-force attacks, SQL injection, cross-site scripting, or distributed denial of service (DDoS). In addition, insecure AWS configurations, such as exposed public buckets and RDS endpoints, may incur potential risks.
